@@ -12,5 +12,7 @@ Roadmap of future improvements:
   Another improvement is to add bus stops from Harvard to MIT.
 
 License information: 
+This Project is licensed through the MIT License.
+
   
   
